@@ -1,0 +1,16 @@
+body.light-theme {
+    background-color: #f0f0f0;
+    color: #000;
+}
+
+.header {
+    background-color: #fff;
+}
+
+.form-container, .chat-container {
+    background-color: #fff;
+}
+
+.toggle-button {
+    background-color: #32CD32;
+}
